@@ -4,6 +4,7 @@ WanderStay is a full-stack accommodation listing web application inspired by mod
 
 The project is built using the **MERN-style JavaScript ecosystem with Node.js, Express.js, MongoDB, and EJS** for server-side rendering.
 
+🔗 **Live Demo:** (https://wanderstay-h2wb.onrender.com/listings)
 ---
 
 ## ✨ Features
@@ -182,7 +183,7 @@ http://localhost:8080
 
 WanderStay is deployed and hosted on **Render**.
 
-🔗 **Live Demo:** `https://wanderstay-h2wb.onrender.com/login`
+🔗 **Live Demo:** https://wanderstay-h2wb.onrender.com/listings
 
 The application is connected to MongoDB Atlas for database management and is configured with the required environment variables on Render.
 
